@@ -1,6 +1,7 @@
 # Phasmocrypt
-
-A decrypter/encrypter for Phasmophobia save files.  **PLEASE** only use this in private games where all parties have
+A decrypter/encrypter for Phasmophobia save files.
+## DISCLAIMER
+**PLEASE** only use this in private games where all parties have
 agreed to its use.  This is *only* for making the game fun for you and friends, got it?
 
 ## Using
